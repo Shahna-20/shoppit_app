@@ -43,7 +43,7 @@ const UserInfo = ({userInfo}) => {
                         <strong>City:</strong>{userInfo.city}
                      </p>
                      <p>
-                        <strong>Country:</strong> {userInfo.state}
+                        <strong>State:</strong> {userInfo.state}
                      </p>
                     
                   </div>
